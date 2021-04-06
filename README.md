@@ -7,7 +7,7 @@
 Here you can find CSS snippets you can copy and paste into your quick/custom css.
 
 
-# Overview
+## Overview
 
 * [**Blur Details**](https://github.com/powercord-themes/CreArts)
 * [**Chat Bubbles**](https://github.com/powercord-themes/Nebula)
