@@ -70,3 +70,41 @@
     filter: none;
     opacity: 1;
 }
+
+/* Connected Accounts */
+.connectionAccountValue-3VdBGs{
+transition: all 40ms cubic-bezier(0.550, 0.085, 0.680, 0.530);
+filter: blur(8px);
+opacity: 0.8;
+}
+
+.connectionAccountValue-3VdBGs:hover{
+transition: all 40ms cubic-bezier(0.55, 0.09, 0.68, 0.53);
+filter: none;
+opacity: 1;
+}
+
+/* Authorised Apps Blur */
+.authedApp-mj2Hmd {
+transition: all 40ms cubic-bezier(0.550, 0.085, 0.680, 0.530);
+filter: blur(8px);
+opacity: 0.8;
+}
+.authedApp-mj2Hmd:hover {
+transition: all 40ms cubic-bezier(0.55, 0.09, 0.68, 0.53);
+filter: none;
+opacity: 1;
+}  
+
+/* Connections Blur */
+.gameName-1RiWHm {
+transition: all 40ms cubic-bezier(0.550, 0.085, 0.680, 0.530);
+filter: blur(8px);
+opacity: 0.8;
+}
+
+.gameName-1RiWHm:hover {
+transition: all 40ms cubic-bezier(0.55, 0.09, 0.68, 0.53);
+filter: none;
+opacity: 1;
+}
