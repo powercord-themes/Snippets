@@ -3,9 +3,7 @@
 
 ![Banner](https://raw.githubusercontent.com/powercord-themes/Assets/main/Banner/Snippets.png?token=AOBQLVTTEWQKQSSPVJTIYWDANSJGW)
 
-
-Here you can find CSS snippets you can copy and paste into your quick/custom css.
-
+Here you can find a collection of CSS Snippets you can easily copy & paste it into your custom css.
 
 ## Overview
 
