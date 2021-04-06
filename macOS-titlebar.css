@@ -1,1 +1,74 @@
-
+/* MacOS */
+/* Keko#6043 */
+/* Leeprky#2063 */
+.theme-light .withFrame-haYltI {
+  background: var(--neb-tertiary);
+  margin: 0;
+  height: 24px;
+}
+.theme-dark .withFrame-haYltI {
+  background: #1D1F22;
+  margin: 0;
+  height: 24px;
+}
+.withFrame-haYltI .wordmarkWindows-1v0lYD svg {
+  width: 0;
+}
+.withFrame-haYltI .winButton-iRh8-Z > svg {
+  display: none;
+}
+.withFrame-haYltI .winButton-iRh8-Z:hover {
+  background-color: var(--background-teritary);
+}
+.withFrame-haYltI .winButton-iRh8-Z {
+  pointer-events: none;
+  margin-left: -3px;
+  top: 0;
+}
+.withFrame-haYltI .winButton-iRh8-Z::after {
+  content: "";
+  padding: 7px;
+  border-radius: 50px;
+  pointer-events: fill;
+  transition-duration: 200ms;
+}
+.withFrame-haYltI .winButtonClose-1HsbF- {
+  margin-right: 5px;
+}
+.withFrame-haYltI .winButtonClose-1HsbF-::after {
+  background-color: #e92a2a25;
+  margin-top: 0px;
+}
+.theme-light .withFrame-haYltI .winButtonClose-1HsbF-::after {
+  background-color: #380d074b;
+  margin-top: 0px;
+}
+.withFrame-haYltI .winButtonClose-1HsbF-:hover::after {
+  background-color: #e92a2a;
+  transform: scale(1.1);
+}
+.withFrame-haYltI .winButtonMinMax-PBQ2gm:nth-child(3)::after {
+  background-color: #ebdd1721;
+  margin-top: 0px;
+}
+.theme-light .withFrame-haYltI .winButtonMinMax-PBQ2gm:nth-child(3)::after {
+  background-color: #3738074b;
+  margin-top: 0px;
+}
+.withFrame-haYltI .winButtonMinMax-PBQ2gm:nth-child(3):hover::after {
+  background-color: #f7bc1b;
+  transform: scale(1.1);
+}
+.withFrame-haYltI .winButtonMinMax-PBQ2gm:nth-child(4):after {
+  background-color: #12db3323;
+  margin-top: 0px;
+}
+.theme-light .withFrame-haYltI .winButtonMinMax-PBQ2gm:nth-child(4):after {
+  background-color: #07380f4b;
+  margin-top: 0px;
+}
+.withFrame-haYltI .winButtonMinMax-PBQ2gm:nth-child(4):hover::after {
+  background-color: #12db33;
+  transform: scale(1.1);
+  margin-top: 0px;
+}
