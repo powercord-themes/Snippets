@@ -5,3 +5,4 @@
 
 Here you can find a collection of CSS Snippets you can easily copy & paste it into your custom css.
 
+Please read the [Wiki](https://github.com/powercord-themes/Snippets/wiki/Submitting-A-CSS-Snippet) about submitting your own snippet
