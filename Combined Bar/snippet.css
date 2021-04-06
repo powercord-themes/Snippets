@@ -1,0 +1,37 @@
+.panels-j1Uci_ {
+  margin-bottom: 23px;
+  background-color: var(--background-secondary);
+}
+.panels-j1Uci_ > .container-3baos1 {
+  height: 44px;
+  margin-left: 16px;
+  border-radius: 5px 0 0 5px;
+  background-color: var(--channeltextarea-background);
+}
+.panels-j1Uci_ > .container-3baos1 > .directionRow-3v3tfG {
+  margin-right: -5px;
+}
+.panels-j1Uci_ > .container-3baos1 > .directionRow-3v3tfG svg {
+  width: 24px;
+  height: auto;
+}
+.panels-j1Uci_ > .container-3baos1 > .directionRow-3v3tfG button {
+  background-color: transparent !important;
+}
+
+.attachButton-2WznTc {
+  padding-left: 0 !important;
+  padding-right: 45px !important;
+}
+
+.chatContent-a9vAAp > form {
+  padding-left: 0 !important;
+}
+
+.channelTextArea-rNsIhG > div {
+  border-radius: 0 5px 5px 0;
+}
+
+.channelTextArea-rNsIhG {
+  border-radius: 0 !important;
+}
