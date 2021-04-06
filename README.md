@@ -5,8 +5,3 @@
 
 Here you can find a collection of CSS Snippets you can easily copy & paste it into your custom css.
 
-## Overview
-
-* [**Blur Details**](https://github.com/powercord-themes/CreArts)
-* [**Chat Bubbles**](https://github.com/powercord-themes/Nebula)
-* [**HSL Snippets**](https://github.com/powercord-themes/Miyua)
