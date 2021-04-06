@@ -1,0 +1,15 @@
+/** Alternative highlight for selected channel **/
+.content-3at_AU{
+  border-radius: 4px 15px 15px 4px;
+}
+.modeSelected-1zApJ_ .children-Bmpf2Q {
+  background-color: #7289da;
+  height: 30px;
+  padding-left: 6px;
+  padding-right: 10px;
+  margin-right: -8px;
+  border-radius: 4px 15px 15px 0px;
+}
+.modeSelected-1zApJ_ .content-3at_AU{
+  border-bottom: #7289da 2px solid;
+}
