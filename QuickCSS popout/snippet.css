@@ -1,0 +1,32 @@
+.powercord-quickcss.popped-out {
+  overflow: hidden;
+  border: 1px solid var(--background-tertiary);
+  background: var(--background-secondary)
+    url("/assets/5ac53bbce4bc51dd14d5413bd7d1c77d.svg") no-repeat 50% 35%/30%;
+}
+
+.powercord-entities-manage-tabs {
+  border: 1px solid var(--background-tertiary);
+}
+
+.powercord-quickcss-popped {
+  position: absolute;
+  top: 60%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+  font-family: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 30px;
+}
+
+.powercord-quickcss {
+  border-radius: 5px;
+  border: 1px solid var(--background-tertiary);
+}
+
+.powercord-quickcss-popped::after {
+  content: ".";
+}
+
+.powercord-quickcss-popped {
+  width: 360px;
+}
