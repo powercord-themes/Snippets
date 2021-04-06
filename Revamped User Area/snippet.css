@@ -1,0 +1,108 @@
+/* Hiding */
+
+.clearStatusIcon-3-MDNF,
+.scrollerBase-289Jih > [id*="status-picker-"] + .separator-2I32lJ,
+.statusItem-33LqPf > .status-1fhblQ,
+.statusItem-33LqPf > .description-2L932D,
+.statusItem-33LqPf > .separator-2I32lJ,
+.statusItem-33LqPf > .customText-tY5LJn,
+.statusItem-33LqPf > .clearStatusIcon-3-MDNF,
+.tutorialContainer-SGrQ1h + div {
+
+    display: none;
+}
+
+/* Avitar / status bar css */
+
+.panels-j1Uci_ > .container-3baos1 > .avatarWrapper-2yR4wp {
+   position: fixed;
+   z-index: 5;
+   top: 23px;
+   left: 8px;
+}
+
+.panels-j1Uci_ > .container-3baos1 > .avatarWrapper-2yR4wp:hover {
+   filter: grayscale(50%);
+}
+
+.avatarWrapper-2yR4wp > .avatar-SmRMf2:not(.spotify-cover) {
+   padding: 6px;
+} 
+
+.guilds-1SWlCJ .scroller-2TZvBN {
+  margin-top: 175px !important;
+}
+
+.unreadMentionsIndicatorTop-gA6RCh {
+  top: 48px;
+}
+
+.panels-j1Uci_ > div:last-child {
+   height: 0;
+   width: 0;
+   margin-bottom: -2px
+}
+
+.container-3baos1 .flex-1xMQg5 {
+   position: fixed;
+   z-index: 10;
+   top: 85px;
+   left: 12px;
+   width: 50px;
+   max-height: 100px;
+   min-height: 100px;
+   align-items: center;
+   background: var(--background-secondary);
+   border-radius: 7px;
+   flex-direction: column;
+}
+
+.container-3baos1 .flex-1xMQg5 > button:first-child {
+   margin-top: 2.5px;
+}
+
+.container-3baos1 .flex-1xMQg5 > button {
+   border-radius: 30px;
+}
+
+#status-picker {
+   width: 44.5px;
+   margin-left: 7px;
+}
+
+#status-picker::before {
+   content: "";
+   position: absolute;
+   z-index: -1;
+   background-color: inherit;
+   transform: rotate(45deg);
+   padding-top: 15px;
+   padding-left: 20px;
+   margin-left: 13px;
+}
+
+.statusItem-33LqPf > .icon-1IxfJ2 {
+   margin-left: 1px;
+}
+
+/* Notes remove */
+
+.userInfoSectionHeader-CBvMDh,
+.note-QfFU8y {
+   display: none;
+}
+
+.infoScroller-3EYYns>.userInfoSection-2acyCx:first-of-type {
+   margin-top: -45px;
+}
+
+.topSectionNormal-2-vo2m {
+   z-index: 10;
+}
+
+.mentioned-xhSam7::before {
+   margin-top: auto;
+   height: 2px;
+   bottom: -3px;
+   width: 100%;
+}
