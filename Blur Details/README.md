@@ -8,4 +8,4 @@
 ![image](https://user-images.githubusercontent.com/73035923/113742588-c062da80-96d0-11eb-9984-89a1c6fa098e.png)
 
 
-#### Credits to [Leeprky](https://github.com/leeprky)
+#### Credits to [Leeprky](https://github.com/leeprky) and [CorellanStoma](https://github.com/corellanstoma)
