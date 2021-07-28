@@ -1,0 +1,20 @@
+/*
+A modified version of chat bubbles original css snippet for powercord quick css which will add pop out effect to the discord messageswith shadow and coolors
+
+By: Abir-Tx
+Year: 2021
+
+*/
+
+
+.cozyMessage-3V1Y8y .contents-2mQqc9 > .markup-2BOw-j:not(:empty) {
+    background-color: rgb(14, 90, 103);
+    display: inline-block;
+    max-width: 650px;
+    width:fit-content;
+    margin: 0;
+    padding: 8px;
+    border-radius: 20px;
+	box-shadow: 3px 3px 3px black;
+	text-shadow: 2px 2px 6px black;
+}
