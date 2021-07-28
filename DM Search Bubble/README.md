@@ -3,4 +3,4 @@
 
 ![preview](https://i.imgur.com/IJ4jDyU.png)
 
-### Credits to [PoorPockets McNewHold](https://github.com/PoorPocketsMcNewHold)
+### Credits to [Monstrousdev](https://github.com/themonstrousdev)
